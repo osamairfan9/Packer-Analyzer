@@ -1,4 +1,4 @@
-# Packer-Analyzer
+# Packer Sniffer x Analyzer
 
 * Save the files in the same manner as the listed folders here.
 
