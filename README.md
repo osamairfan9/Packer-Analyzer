@@ -1,5 +1,7 @@
 # Packer Sniffer x Analyzer
 
+* Download the Zip file using the code button of this repository.
+  
 * Save the files in the same manner as the listed folders here.
 
 * Modify the paths in the code according to your system.
