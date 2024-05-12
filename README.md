@@ -4,7 +4,7 @@
   
 * Save the files in the same manner as the listed folders here.
 
-* Modify the paths in the code according to your system.
+* Modify the paths in the code according to your system if needed, else leave the same.
 
 * Execute the script by using `python packet_analyser.py` in your command prompt (cmd), or you can use any IDE to run the code.
 
